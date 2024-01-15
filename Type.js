@@ -27,3 +27,6 @@ console.log(date instanceof Object)
 
 //!prototype
 console.log(Object.prototype.toString.call(date))
+
+
+console.log(null == 0)
